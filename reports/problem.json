@@ -1,0 +1,6 @@
+{
+  "who": "Security engineering teams, DevOps practitioners, and open-source consumers analyzing untrusted third-party Python packages and dependencies before deployment.",
+  "agent_work": "The agent automates detonation of untrusted packages inside an isolated Celesto microVM, captures system-level process modifications, file mutations, and network attempts, logs all audit events, and blocks hostile commands.",
+  "proof_output": "Cryptographically verifiable risk assessment report with audit trails and containment logs.",
+  "idea_source": "idea_bank"
+}

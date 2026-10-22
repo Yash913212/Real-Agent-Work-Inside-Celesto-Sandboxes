@@ -1,0 +1,92 @@
+{"ts": "2026-10-22T11:06:58.233388+00:00", "sandbox_name": "sbx-evalrun01a", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.235100+00:00", "sandbox_name": "sbx-evalrun01a", "command": "echo 'sandbox verification probe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.235211+00:00", "sandbox_name": "sbx-evalrun01a", "command": "pip install untrusted-pkg-demo", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.235297+00:00", "sandbox_name": "sbx-evalrun01a", "command": "echo 'analysis completed successfully'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.287174+00:00", "sandbox_name": "sbx-evalrun02b", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.287649+00:00", "sandbox_name": "sbx-evalrun02b", "command": "echo 'sandbox verification probe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.287839+00:00", "sandbox_name": "sbx-evalrun02b", "command": "pip install untrusted-pkg-demo", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.287958+00:00", "sandbox_name": "sbx-evalrun02b", "command": "echo 'analysis completed successfully'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.343145+00:00", "sandbox_name": "sbx-evalrun03c", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.343539+00:00", "sandbox_name": "sbx-evalrun03c", "command": "echo 'sandbox verification probe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.343690+00:00", "sandbox_name": "sbx-evalrun03c", "command": "pip install untrusted-pkg-demo", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.343823+00:00", "sandbox_name": "sbx-evalrun03c", "command": "echo 'analysis completed successfully'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.399079+00:00", "sandbox_name": "sbx-evalrun04d", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.400282+00:00", "sandbox_name": "sbx-evalrun04d", "command": "echo 'sandbox verification probe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.400865+00:00", "sandbox_name": "sbx-evalrun04d", "command": "pip install untrusted-pkg-demo", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.401374+00:00", "sandbox_name": "sbx-evalrun04d", "command": "echo 'analysis completed successfully'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.459159+00:00", "sandbox_name": "sbx-evalrun05e", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.468917+00:00", "sandbox_name": "sbx-evalrun05e", "command": "echo 'sandbox verification probe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.469804+00:00", "sandbox_name": "sbx-evalrun05e", "command": "pip install untrusted-pkg-demo", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.470825+00:00", "sandbox_name": "sbx-evalrun05e", "command": "echo 'analysis completed successfully'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.526120+00:00", "sandbox_name": "sbx-evalrun06f", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.526529+00:00", "sandbox_name": "sbx-evalrun06f", "command": "echo 'sandbox verification probe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.526847+00:00", "sandbox_name": "sbx-evalrun06f", "command": "pip install untrusted-pkg-demo", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.527016+00:00", "sandbox_name": "sbx-evalrun06f", "command": "echo 'analysis completed successfully'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.582216+00:00", "sandbox_name": "sbx-evalrun07g", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.582536+00:00", "sandbox_name": "sbx-evalrun07g", "command": "echo 'sandbox verification probe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.582653+00:00", "sandbox_name": "sbx-evalrun07g", "command": "echo 'analysis encountered fatal error'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.637160+00:00", "sandbox_name": "sbx-evalrun08h", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.637639+00:00", "sandbox_name": "sbx-evalrun08h", "command": "echo 'sandbox verification probe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.637931+00:00", "sandbox_name": "sbx-evalrun08h", "command": "pip install untrusted-pkg-demo", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.638077+00:00", "sandbox_name": "sbx-evalrun08h", "command": "echo 'analysis completed successfully'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.693287+00:00", "sandbox_name": "sbx-evalrun09i", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.693704+00:00", "sandbox_name": "sbx-evalrun09i", "command": "echo 'sandbox verification probe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.694077+00:00", "sandbox_name": "sbx-evalrun09i", "command": "pip install untrusted-pkg-demo", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.694359+00:00", "sandbox_name": "sbx-evalrun09i", "command": "echo 'analysis completed successfully'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.749742+00:00", "sandbox_name": "sbx-evalrun10j", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.750565+00:00", "sandbox_name": "sbx-evalrun10j", "command": "echo 'sandbox verification probe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.750960+00:00", "sandbox_name": "sbx-evalrun10j", "command": "pip install untrusted-pkg-demo", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.751202+00:00", "sandbox_name": "sbx-evalrun10j", "command": "echo 'analysis completed successfully'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.805045+00:00", "sandbox_name": "sbx-evalrun11k", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.805576+00:00", "sandbox_name": "sbx-evalrun11k", "command": "echo 'sandbox verification probe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.805842+00:00", "sandbox_name": "sbx-evalrun11k", "command": "pip install untrusted-pkg-demo", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.806058+00:00", "sandbox_name": "sbx-evalrun11k", "command": "echo 'analysis completed successfully'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.861298+00:00", "sandbox_name": "sbx-evalrun12l", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.861978+00:00", "sandbox_name": "sbx-evalrun12l", "command": "echo 'sandbox verification probe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.862351+00:00", "sandbox_name": "sbx-evalrun12l", "command": "pip install untrusted-pkg-demo", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.862766+00:00", "sandbox_name": "sbx-evalrun12l", "command": "echo 'analysis completed successfully'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.918125+00:00", "sandbox_name": "sbx-evalrun13m", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.918754+00:00", "sandbox_name": "sbx-evalrun13m", "command": "echo 'sandbox verification probe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.919077+00:00", "sandbox_name": "sbx-evalrun13m", "command": "echo 'analysis encountered fatal error'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.974394+00:00", "sandbox_name": "sbx-evalrun14n", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.974889+00:00", "sandbox_name": "sbx-evalrun14n", "command": "echo 'sandbox verification probe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.975207+00:00", "sandbox_name": "sbx-evalrun14n", "command": "pip install untrusted-pkg-demo", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:58.975380+00:00", "sandbox_name": "sbx-evalrun14n", "command": "echo 'analysis completed successfully'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.030706+00:00", "sandbox_name": "sbx-evalrun15o", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.031662+00:00", "sandbox_name": "sbx-evalrun15o", "command": "echo 'sandbox verification probe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.032025+00:00", "sandbox_name": "sbx-evalrun15o", "command": "pip install untrusted-pkg-demo", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.032279+00:00", "sandbox_name": "sbx-evalrun15o", "command": "echo 'analysis completed successfully'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.087666+00:00", "sandbox_name": "sbx-evalrun16p", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.088783+00:00", "sandbox_name": "sbx-evalrun16p", "command": "echo 'sandbox verification probe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.089174+00:00", "sandbox_name": "sbx-evalrun16p", "command": "pip install untrusted-pkg-demo", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.089389+00:00", "sandbox_name": "sbx-evalrun16p", "command": "echo 'analysis completed successfully'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.142476+00:00", "sandbox_name": "sbx-evalrun17q", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.143403+00:00", "sandbox_name": "sbx-evalrun17q", "command": "echo 'sandbox verification probe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.143744+00:00", "sandbox_name": "sbx-evalrun17q", "command": "pip install untrusted-pkg-demo", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.143928+00:00", "sandbox_name": "sbx-evalrun17q", "command": "echo 'analysis completed successfully'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.195208+00:00", "sandbox_name": "sbx-evalrun18r", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.195777+00:00", "sandbox_name": "sbx-evalrun18r", "command": "echo 'sandbox verification probe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.196074+00:00", "sandbox_name": "sbx-evalrun18r", "command": "echo 'analysis encountered fatal error'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.251405+00:00", "sandbox_name": "sbx-evalrun19s", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.252171+00:00", "sandbox_name": "sbx-evalrun19s", "command": "echo 'sandbox verification probe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.252585+00:00", "sandbox_name": "sbx-evalrun19s", "command": "pip install untrusted-pkg-demo", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.252885+00:00", "sandbox_name": "sbx-evalrun19s", "command": "echo 'analysis completed successfully'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.303869+00:00", "sandbox_name": "sbx-evalrun20t", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.304498+00:00", "sandbox_name": "sbx-evalrun20t", "command": "echo 'sandbox verification probe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.304903+00:00", "sandbox_name": "sbx-evalrun20t", "command": "pip install untrusted-pkg-demo", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.305187+00:00", "sandbox_name": "sbx-evalrun20t", "command": "echo 'analysis completed successfully'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.361934+00:00", "sandbox_name": "sbx-containment01", "command": "rm -rf / --no-preserve-root", "decision": "block", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.419299+00:00", "sandbox_name": "sbx-failstep7rec", "command": "mkdir -p /sandbox/detonation", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.419867+00:00", "sandbox_name": "sbx-failstep7rec", "command": "python3 --version", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.420251+00:00", "sandbox_name": "sbx-failstep7rec", "command": "echo 'network_policy: egress disabled'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.420611+00:00", "sandbox_name": "sbx-failstep7rec", "command": "pip install pip-audit", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.421135+00:00", "sandbox_name": "sbx-failstep7rec", "command": "echo 'unpacking sample-package-0.1.tar.gz'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.421633+00:00", "sandbox_name": "sbx-failstep7rec", "command": "python3 -m untrusted_pkg.detonate", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.422146+00:00", "sandbox_name": "sbx-failstep7rec", "command": "echo 'quarantine inspection verified safe'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.422423+00:00", "sandbox_name": "sbx-failstep7rec", "command": "echo 'SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.422711+00:00", "sandbox_name": "sbx-failstep7rec", "command": "echo 'Detonation complete. Host untouched.'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.478742+00:00", "sandbox_name": "sbx-concur01node", "command": "echo 'concurrent job execution'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.534588+00:00", "sandbox_name": "sbx-concur02node", "command": "echo 'concurrent job execution'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.587189+00:00", "sandbox_name": "sbx-concur03node", "command": "echo 'concurrent job execution'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.641657+00:00", "sandbox_name": "sbx-concur04node", "command": "echo 'concurrent job execution'", "decision": "allow", "execution_target": "celesto_sandbox"}
+{"ts": "2026-10-22T11:06:59.697441+00:00", "sandbox_name": "sbx-concur05node", "command": "echo 'concurrent job execution'", "decision": "allow", "execution_target": "celesto_sandbox"}

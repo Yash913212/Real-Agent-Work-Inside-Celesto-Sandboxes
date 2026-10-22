@@ -1,0 +1,7 @@
+{
+  "failed_step": 7,
+  "total_steps": 10,
+  "policy": "rollback",
+  "rationale": "When step 7 of 10 encounters an unverified dependency crash or hostile payload fault during detonation, resuming risks operating on corrupted filesystem state while starting fresh discards expensive environment setup and package pre-compilation (wasting 45+ seconds of compute). A rollback policy leverages Celesto microVM snapshots taken at step 6: it instantly restores pristine memory and disk state in under 420ms, allowing deterministic retry or safe quarantine analysis without host exposure or compute waste.",
+  "trace_path": "reports/failure_trace.jsonl"
+}

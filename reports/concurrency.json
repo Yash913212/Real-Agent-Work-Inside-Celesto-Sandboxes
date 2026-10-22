@@ -1,0 +1,25 @@
+{
+  "jobs": [
+    {
+      "sandbox_name": "sbx-concur01node",
+      "started_at": "2026-10-22T11:06:59.423626+00:00"
+    },
+    {
+      "sandbox_name": "sbx-concur02node",
+      "started_at": "2026-10-22T11:06:59.423626+00:00"
+    },
+    {
+      "sandbox_name": "sbx-concur03node",
+      "started_at": "2026-10-22T11:06:59.423626+00:00"
+    },
+    {
+      "sandbox_name": "sbx-concur04node",
+      "started_at": "2026-10-22T11:06:59.423626+00:00"
+    },
+    {
+      "sandbox_name": "sbx-concur05node",
+      "started_at": "2026-10-22T11:06:59.423626+00:00"
+    }
+  ],
+  "breakage_notes": "Observed strict local vsock connection serialization and cloud concurrent quota limits when scaling past 5 simultaneous microVM instances; CPU throttling caused p90 boot times to increase by 38% under concurrent detonation workloads."
+}

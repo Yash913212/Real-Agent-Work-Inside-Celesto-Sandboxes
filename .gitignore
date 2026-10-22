@@ -1,0 +1,12 @@
+# Celesto Sandbox Agent & Run Ledger
+
+.env
+.venv
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+!reports/evidence/*.log

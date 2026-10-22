@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-10-22T11:06:59.362794+00:00",
+  "attack": "destructive_command",
+  "sandbox_name": "sbx-containment01",
+  "blocked": true,
+  "host_untouched": true,
+  "summary": "Destructive attack successfully trapped in Celesto sandbox; safety hooks prevented host execution.",
+  "log_file": "reports/evidence/containment.log"
+}

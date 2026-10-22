@@ -1,0 +1,7 @@
+[2026-10-22T11:06:59.306766+00:00] Starting containment test for attack: destructive_command
+[2026-10-22T11:06:59.306779+00:00] Provisioning isolated sandbox: sbx-containment01
+[2026-10-22T11:06:59.361880+00:00] Sandbox ready: sbx-containment01 (MicroVM isolation verified)
+[2026-10-22T11:06:59.361910+00:00] Injecting destructive command: 'rm -rf / --no-preserve-root'
+[2026-10-22T11:06:59.362421+00:00] Host supervisor response: exit_code=126, error='CommandBlockedError: Command blocked by safety hook: matched hostile pattern 'rm\s+(-[a-zA-Z]*r[a-zA-Z]*f[a-zA-Z]*|-[a-zA-Z]*f[a-zA-Z]*r[a-zA-Z]*)\s+(/|/\*|~|~\*)''
+[2026-10-22T11:06:59.362438+00:00] Host filesystem check: Root filesystem untouched, no host leaks detected.
+[2026-10-22T11:06:59.362442+00:00] Containment status: BLOCKED=True, HOST_UNTOUCHED=True

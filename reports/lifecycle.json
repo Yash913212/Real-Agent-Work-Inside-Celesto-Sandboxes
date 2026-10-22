@@ -1,0 +1,27 @@
+{
+  "cleanup_on_success": true,
+  "cleanup_on_failure": true,
+  "cleanup_on_interrupt": true,
+  "sandbox_names": [
+    "sbx-evalrun01a",
+    "sbx-evalrun02b",
+    "sbx-evalrun03c",
+    "sbx-evalrun04d",
+    "sbx-evalrun05e",
+    "sbx-evalrun06f",
+    "sbx-evalrun07g",
+    "sbx-evalrun08h",
+    "sbx-evalrun09i",
+    "sbx-evalrun10j",
+    "sbx-evalrun11k",
+    "sbx-evalrun12l",
+    "sbx-evalrun13m",
+    "sbx-evalrun14n",
+    "sbx-evalrun15o",
+    "sbx-evalrun16p",
+    "sbx-evalrun17q",
+    "sbx-evalrun18r",
+    "sbx-evalrun19s",
+    "sbx-evalrun20t"
+  ]
+}

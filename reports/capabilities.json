@@ -1,0 +1,19 @@
+{
+  "capabilities": [
+    {
+      "id": "safety_hooks",
+      "why": "Safety hooks execute pre-command inspection callbacks in the host supervisor before dispatching instructions to the guest kernel, enabling dynamic blocking of dangerous commands like rm -rf, unauthorized privilege escalation, and suspicious outbound payload execution.",
+      "evidence_path": "src/safety_hooks.py"
+    },
+    {
+      "id": "network_policy",
+      "why": "Network policy enforces strict microVM egress rules by disabling outbound public internet connectivity or whitelisting specific security package mirrors, completely neutralizing prompt-injection exfiltration vectors and reverse shell callbacks.",
+      "evidence_path": "src/celesto_client.py"
+    },
+    {
+      "id": "snapshots",
+      "why": "Snapshots freeze the microVM CPU, memory, and filesystem state into an immutable baseline, allowing instant sub-second rollback after untrusted package detonation or mid-task crashes without spending 40+ seconds provisioning a new computer.",
+      "evidence_path": "src/failure_recovery.py"
+    }
+  ]
+}
